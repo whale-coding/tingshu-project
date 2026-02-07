@@ -4,7 +4,7 @@
 #package file
 *.war
 *.ear
-*.zip
+# *.zip
 *.tar.gz
 *.rar
 #maven ignore
